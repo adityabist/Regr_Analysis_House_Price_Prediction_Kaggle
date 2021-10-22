@@ -2,7 +2,7 @@
 Kaggle Competition - Trying to predict House Prices
 House Prices - Advanced Regression Techniques
 
-This project will try to predict house sale prices using categorical and non categorical features. Also, it will make use of the _xgboost_ regression model to predict the prices.
+This project will try to predict house sale prices using the Kaggle porvided dataset. It will consider both categorical and non categorical features. Also, it will make use of the _xgboost_ regression model to predict the prices.
 
 
 - 👋 Hi, I’m @adityabist
