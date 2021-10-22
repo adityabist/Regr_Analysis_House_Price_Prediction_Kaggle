@@ -13,7 +13,7 @@ This project will try to predict house sale prices using the Kaggle porvided dat
 ## 🛠 Skills
 - Python
 - Statistical methods
-- Regression Model Understanding
+- Linear Regression Model Understanding
 
 ## Installation
 Install my-project with the following programs:
@@ -26,6 +26,9 @@ Python 3.7.11
   
   Installing matplotlib librabry in Python
   - https://matplotlib.org/stable/users/installing.html
+  
+  Installing scikit-learn librabry in Python
+  - https://scikit-learn.org/stable/install.html
   
 
 Jupyter Notebook
